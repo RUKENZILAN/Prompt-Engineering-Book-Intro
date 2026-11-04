@@ -5,7 +5,7 @@
 By Aysu İrem Adem, Ruken Zilan and Ali Yazıcı
 
 <p align="center">
- <img width="1024" height="1536" alt="book" src="https://github.com/user-attachments/assets/983fcd63-cce3-43f6-94e8-f338482075d5" />
+ <img width="512" height="760" alt="book" src="https://github.com/user-attachments/assets/983fcd63-cce3-43f6-94e8-f338482075d5" />
 </p>
 
 ## About
